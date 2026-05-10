@@ -1,6 +1,3 @@
-Understood. Here is the final, assembled Markdown for your GitHub profile, keeping it clean and accurate to your current focus.
-
----
 
 # 💫 About Me
 
