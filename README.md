@@ -7,7 +7,7 @@ I am a developer currently shifting my focus from web-based projects toward the 
 
 ---
 
-### The Mission
+### The Mission 
 
 * **Focus:** Moving toward embedded systems and autonomous hardware.
 * **Core Language:** Python.
