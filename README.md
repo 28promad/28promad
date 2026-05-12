@@ -15,7 +15,7 @@ I am a developer currently shifting my focus from web-based projects toward the 
 * **Interests:** Firmware, sensor integration, and making things move.
 * **Current State:** Trading the browser for breadboards and compilers.
 
----
+--- 
 
 ### Profile Details
 
