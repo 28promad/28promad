@@ -7,7 +7,7 @@ I am a developer currently shifting my focus from web-based projects toward the 
 
 ---
 
-### The Mission 
+### The Mission
 
 * **Focus:** Moving toward embedded systems and autonomous hardware.
 * **Core Language:** Python.
@@ -15,7 +15,7 @@ I am a developer currently shifting my focus from web-based projects toward the 
 * **Interests:** Firmware, sensor integration, and making things move.
 * **Current State:** Trading the browser for breadboards and compilers.
 
---- 
+---
 
 ### Profile Details
 
@@ -23,8 +23,8 @@ I am a developer currently shifting my focus from web-based projects toward the 
 * **Looking to collaborate on:** Open-source projects that are welcoming to developers transitioning into embedded systems.
 * **Looking for help with:** Understanding pointers, memory management, and C++ best practices.
 * **Currently learning:** C++ syntax and how to translate logic from Python to low-level code.
-* **Ask me about:** Python automation, Linux desktop customization on Fedora, or configuring Wayland compositors
-* **Fun fact:** I spend more time perfecting my Niri configuration and Kitty terminal aesthetics than I do actually writing code
+* **Ask me about:** Python automation, Linux desktop customization on Fedora, or configuring Wayland compositors.
+* **Fun fact:** I spend more time perfecting my Niri configuration and Kitty terminal aesthetics than I do actually writing code.
 
 ---
 
